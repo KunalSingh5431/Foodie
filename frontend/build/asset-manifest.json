@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.eaeaa139.js",
+    "static/media/deli.png": "/static/media/deli.1ff1e132c3c5c267f6dd.png",
+    "static/media/signup-bg.jpg": "/static/media/signup-bg.f6603b0a7cdcced50cd0.jpg",
+    "static/media/login-bg.jpg": "/static/media/login-bg.127e9687eb6a7b27be13.jpg",
+    "index.html": "/index.html",
+    "main.eaeaa139.js.map": "/static/js/main.eaeaa139.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eaeaa139.js"
+  ]
+}
