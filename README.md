@@ -55,24 +55,6 @@ Built using **React.js**, **Material UI**, **Express.js**, and **MongoDB**, this
 - Render (full-stack deployment as single service)
 - GitHub (source control)
 
-## 🗂 Folder Structure
-foodie/
-├── backend/
-│ ├── server.js
-│ ├── models/
-│ ├── routes/
-│ └── ...
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── App.js
-│ ├── package.json
-│ └── build/
-├── package.json (backend)
-└── README.md 
-
 ## 🛠️ Local Setup
 
 ### 1. Clone the repository
