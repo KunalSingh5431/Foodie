@@ -5,11 +5,11 @@ import {
     Typography,
     Paper,
     Box,
-    Link,
     InputAdornment,
     IconButton
 } from "@mui/material";
 import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import axios from "axios";
 import loginBg from "../../assets/login-bg.jpg";
 import Visibility from "@mui/icons-material/Visibility";
@@ -112,7 +112,7 @@ const Login = () => {
 
                 <Typography variant="body2" align="center" sx={{ mt: 3 }}>
                     Don't have an account?{" "}
-                    <Link href="/signup" underline="hover">
+                    <Link to="/signup" underline="hover">
                         Signup
                     </Link>
                 </Typography>
