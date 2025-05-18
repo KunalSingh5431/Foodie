@@ -1,4 +1,4 @@
-# 🍕 Foodie - Your Favorite Meals, Just a Click Away
+![Screenshot 2025-05-18 131611](https://github.com/user-attachments/assets/5170e1ed-b0aa-4e22-95c5-6225bae68cd8)# 🍕 Foodie - Your Favorite Meals, Just a Click Away
 
 **Foodie** is a full-stack food ordering web application that lets users browse delicious meals fetched from [TheMealDB API](https://www.themealdb.com/), add them to a cart, and place orders with a clean and modern user interface. Built using **React.js**, **Material UI**, **Express.js**, and **MongoDB**, this project showcases a seamless frontend experience and a RESTful backend.
 
@@ -7,21 +7,22 @@
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the app](https://your-deployed-url.onrender.com)
+🔗 [Click here to view the app](https://foodie-8h1h.onrender.com)
 
 ## 📸 Screenshots
 
 - **Home Page**  
-  ![](screenshots/home.png)
+  ![Screenshot 2025-05-18 131611](https://github.com/user-attachments/assets/da5356ad-fc2e-4993-ac0e-eace988fcd82)
 
 - **Cart Page**  
-  ![](screenshots/cart.png)
+  ![Screenshot 2025-05-18 131643](https://github.com/user-attachments/assets/a904d56f-fde9-4e1b-bd8a-d6ccdf8992ae)
 
-- **Checkout**  
-  ![](screenshots/checkout.png)
+- **Order History**  
+![Screenshot 2025-05-18 131751](https://github.com/user-attachments/assets/a71afb7c-82cf-4525-bdcf-af34077cd794)
 
-- **Order UI**  
-  ![](screenshots/order-ui.png)
+- **Track Order UI**
+![Screenshot 2025-05-18 131733](https://github.com/user-attachments/assets/8cc44ca7-7bfb-4c52-b74f-0fd557cae883)
+
 
 ## 🚀 Features
 
